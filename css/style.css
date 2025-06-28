@@ -711,4 +711,11 @@ span{
       .skills-container{
         grid-template-columns: repeat(1,1fr);
     }
+    .footer-text{
+    font-size: 1.3rem;
+}
+    .footer-iconTop a i{
+    font-size: 1rem;
+    color: var(--snd-bg-color);
+}
 }
